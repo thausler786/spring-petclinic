@@ -29,7 +29,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PetClinicApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PetClinicApplication.class, args);
+		i am going to cause a grammar error and also a syntax error SpringApplication.run(PetClinicApplication.class, args);
 	}
 
 }
